@@ -1,3 +1,6 @@
+This is meant to hold my personal baseline for React applications, including file structure, dependencies and configurations.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
